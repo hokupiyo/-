@@ -1,0 +1,4 @@
+npm install
+npm i -g serve
+serve
+→ http://localhost:5000
